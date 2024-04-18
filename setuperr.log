@@ -1,0 +1,44 @@
+﻿2024-01-25 16:35:37, Error                 SYSPRP Package Microsoft.LanguageExperiencePackes-ES_19041.69.236.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2024-01-25 16:35:37, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2024-01-25 16:35:37, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2024-01-25 16:35:37, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2024-01-25 16:35:37, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2024-01-25 16:35:37, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2024-01-25 16:35:37, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2024-01-25 16:35:37, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2024-01-25 16:56:11, Error                 SYSPRP Package Microsoft.LanguageExperiencePackes-ES_19041.69.236.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2024-01-25 16:56:11, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2024-01-25 16:56:11, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2024-01-25 16:56:11, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2024-01-25 16:56:11, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2024-01-25 16:56:11, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2024-01-25 16:56:11, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2024-01-25 16:56:11, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2024-01-25 18:15:24, Error                 SYSPRP Package Adobe.XD_57.1.12.2_x64__pc75e8sa7ep4e was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2024-01-25 18:15:24, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2024-01-25 18:15:24, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2024-01-25 18:15:24, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2024-01-25 18:15:24, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2024-01-25 18:15:24, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2024-01-25 18:15:24, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2024-01-25 18:15:24, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2024-01-25 19:06:01, Error                 SYSPRP Package AdobeNotificationClient_3.0.1.1_x86__enpm4xejd91yc was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2024-01-25 19:06:01, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2024-01-25 19:06:01, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2024-01-25 19:06:01, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2024-01-25 19:06:01, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2024-01-25 19:06:01, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2024-01-25 19:06:01, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2024-01-25 19:06:01, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2024-01-25 19:15:01, Error                 SYSPRP Package PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0 was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2024-01-25 19:15:01, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2024-01-25 19:15:01, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2024-01-25 19:15:01, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2024-01-25 19:15:01, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2024-01-25 19:15:01, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2024-01-25 19:15:01, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2024-01-25 19:15:01, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2024-01-25 19:30:17, Error                 TOOL   BCD: BiUpdateEfiEntry failed c000000d
+2024-01-25 19:30:17, Error                 TOOL   BCD: BiExportBcdObjects failed c000000d
+2024-01-25 19:30:17, Error                 TOOL   BCD: BiExportStoreAlterationsToEfi failed c000000d
+2024-01-25 19:30:17, Error                 TOOL   BCD: Failed to export alterations to firmware. Status: c000000d
